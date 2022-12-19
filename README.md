@@ -42,7 +42,9 @@ calls "/home/dan/x/t0"
 is 
 
 #!/bin/bash
+
 t
+
 t0
 
 that script .. cycles through.  the python client will only reboot. fast reboot
